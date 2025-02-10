@@ -7,8 +7,11 @@ In this project I Analyzed cancellation trends and revenue impact for City and R
 # Key Insights:
 
 1.Identified that 37% of reservations were canceled, heavily impacting revenue.
+
 2.Found cancellations correlated with higher prices and longer waitlists.
+
 3.Observed a higher cancellation rate in Resort Hotels compared to City Hotels.
+
 4.Determined Portugal as the leading country for cancellations and online travel agencies as the primary booking source (~45%).
 
 
